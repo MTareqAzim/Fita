@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Fita/Application.h"
+#include "Fita/Log.h"
 
 
 //-------Entry Point------------

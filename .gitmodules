@@ -1,0 +1,3 @@
+[submodule "Fita/vendor/spdlog"]
+	path = Fita/vendor/spdlog
+	url = https://github.com/gabime/spdlog
