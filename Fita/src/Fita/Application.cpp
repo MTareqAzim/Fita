@@ -1,5 +1,8 @@
 #include "Application.h"
 
+#include "Fita/Events/ApplicationEvent.h"
+#include "Fita/Log.h"
+
 namespace Fita {
 
 	Application::Application()
@@ -14,7 +17,10 @@ namespace Fita {
 
 	void Application::Run()
 	{
-		while (true) {}
+		WindowResizeEvent e(1280, 720);
+		FI_TRACE(e);
+
+		while (true);
 	}
 
 }
