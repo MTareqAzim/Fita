@@ -1,5 +1,6 @@
 #pragma once
 
+#include "fipch.h"
 #include "Fita/Core.h"
 
 namespace Fita {
