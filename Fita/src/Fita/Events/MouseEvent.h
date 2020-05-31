@@ -2,8 +2,6 @@
 
 #include "Event.h"
 
-#include <sstream>
-
 namespace Fita {
 
 	class FITA_API MouseMovedEvent : public Event

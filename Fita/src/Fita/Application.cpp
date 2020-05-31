@@ -1,3 +1,4 @@
+#include "fipch.h"
 #include "Application.h"
 
 #include "Fita/Events/ApplicationEvent.h"

@@ -18,6 +18,9 @@ project "Fita"
 	targetdir ("bin/" .. outputdir .. "/%{prj.name}")
 	objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
+	pchheader "fipch.h"
+	pchsource "Fita/src/fipch.cpp"
+
 	files
 	{
 		"%{prj.name}/src/**.h",

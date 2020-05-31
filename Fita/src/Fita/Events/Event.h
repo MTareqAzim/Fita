@@ -2,9 +2,6 @@
 
 #include "Fita/Core.h"
 
-#include <string>
-#include <functional>
-
 namespace Fita {
 
 	enum class EventType

@@ -1,3 +1,4 @@
+#include "fipch.h"
 #include "Log.h"
 
 namespace Fita {
