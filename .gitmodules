@@ -1,3 +1,6 @@
 [submodule "Fita/vendor/spdlog"]
 	path = Fita/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Fita/vendor/GLFW"]
+	path = Fita/vendor/GLFW
+	url = https://github.com/MTareqAzim/glfw
