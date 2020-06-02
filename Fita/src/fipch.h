@@ -12,6 +12,8 @@
 #include <unordered_map>
 #include <unordered_set>
 
+#include "Fita/Log.h"
+
 
 #ifdef FI_PLATFORM_WINDOWS
 	#include <Windows.h>

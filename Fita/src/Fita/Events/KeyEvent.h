@@ -39,6 +39,7 @@ namespace Fita {
 
 	class FITA_API KeyReleasedEvent : public KeyEvent
 	{
+	public:
 		KeyReleasedEvent(int keycode)
 			: KeyEvent(keycode) {}
 
